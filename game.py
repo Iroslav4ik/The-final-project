@@ -114,7 +114,7 @@ class Game:
         else:
             outcome = "НИЧЬЯ 😐"
 
-        return f"Вы: {player}\nКоипьютер: {computer}\n\n {outcome}"
+        return f"Вы: {player}\nКомпьютер: {computer}\n\n {outcome}"
 
 
 # === Интерфейс ===
